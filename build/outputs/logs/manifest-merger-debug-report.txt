@@ -175,14 +175,14 @@ ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:58:9
 		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:62:13-52
 	android:name
 		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:59:13-44
-activity#com.cbk.ask.ui.SplashActivity
+activity#com.cbk.ask.ui.WebViewActivity
 ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:66:9-75:20
 	android:screenOrientation
 		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:68:13-49
 	android:theme
 		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:69:13-52
 	android:name
-		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:67:13-46
+		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:67:13-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:70:13-74:29
 action#android.intent.action.MAIN
@@ -193,26 +193,6 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:73:17-77
 	android:name
 		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:73:27-74
-activity#com.cbk.ask.ui.WebViewActivity
-ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:78:3-88:14
-	android:screenOrientation
-		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:80:13-49
-	android:theme
-		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:81:13-52
-	android:name
-		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:79:13-47
-intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:82:9-84:29
-action#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:83:17-90
-	android:name
-		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:83:25-87
-meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
-ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:85:13-87:57
-	android:resource
-		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:87:17-54
-	android:name
-		ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:86:17-79
 activity#com.cbk.ask.ui.LoginActivity
 ADDED from C:\Users\18673\Desktop\doc-apk-client\client\AndroidManifest.xml:90:9-94:80
 	android:screenOrientation

@@ -1,16 +1,10 @@
 package com.cbk.ask.ui;
 
-import java.security.MessageDigest;
-import java.security.NoSuchAlgorithmException;
-import java.util.List;
-
-import android.app.ActivityManager;
 import android.bluetooth.BluetoothAdapter;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
-import android.net.wifi.WifiInfo;
 import android.net.wifi.WifiManager;
 import android.os.Build;
 import android.os.Bundle;
@@ -28,13 +22,15 @@ import com.cbk.ask.domain.User.UserResponse;
 import com.cbk.ask.net.AppCallback;
 import com.cbk.ask.net.CGNetworkHelper;
 import com.cbk.ask.net.UrlPaths;
-import com.cbk.ask.service.FxService;
 import com.cbk.ask.utils.ChoseTipDialog;
-import com.cbk.ask.utils.TipDialog;
 import com.cbk.ask.utils.ChoseTipDialog.ChoseTipDialogListener;
+import com.cbk.ask.utils.TipDialog;
 import com.cbk.ask.utils.TipDialog.TipDialogListener;
 import com.hyphenate.EMCallBack;
 import com.hyphenate.chat.EMClient;
+
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 
 /**
  * 开屏页
@@ -90,7 +86,7 @@ public class SplashActivity extends BaseActivity implements
 		if(m_BluetoothAdapter!=null) 
 			m_szBTMAC = m_BluetoothAdapter.getAddress();
 		
-		WifiManager wm = (WifiManager)getSystemService(Context.WIFI_SERVICE); 
+		WifiManager wm = (WifiManager)getApplicationContext().getSystemService(Context.WIFI_SERVICE);
 		String m_szWLANMAC = wm.getConnectionInfo().getMacAddress();
 
 

@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Jul 02 11:14:45 CST 2018
+#Mon Jul 02 13:30:43 CST 2018
 1007.base=C\:\\Users\\18673\\Desktop\\doc-apk-client\\client\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
 835.base=C\:\\Users\\18673\\Desktop\\doc-apk-client\\client\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
 100.set=JAVA_RESOURCE

@@ -66,7 +66,7 @@
 
         <!-- 开屏页 -->
         <activity
-            android:name="com.cbk.ask.ui.SplashActivity"
+            android:name="com.cbk.ask.ui.WebViewActivity"
             android:screenOrientation="portrait"
             android:theme="@style/horizontal_slide" >
             <intent-filter>
@@ -75,18 +75,19 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity
-            android:name="com.cbk.ask.ui.WebViewActivity"
-            android:screenOrientation="portrait"
-            android:theme="@style/horizontal_slide" >
-            <intent-filter>
-                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
-            </intent-filter>
 
-            <meta-data
-                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
-                android:resource="@xml/device_filter" />
-        </activity>
+        <!--  -->
+        <!-- <activity -->
+        <!-- android:name=".ui.WebViewActivity" -->
+        <!-- android:screenOrientation="portrait" -->
+        <!-- android:theme="@style/horizontal_slide"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" /> -->
+        <!-- </intent-filter> -->
+        <!-- <meta-data -->
+        <!-- android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" -->
+        <!-- android:resource="@xml/device_filter" /> -->
+        <!-- </activity> -->
         <!-- 登陆 -->
         <activity
             android:name="com.cbk.ask.ui.LoginActivity"

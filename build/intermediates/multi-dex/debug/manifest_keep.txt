@@ -3,7 +3,6 @@
     void attachBaseContext(android.content.Context);
 }
 -keep class com.cbk.ask.ui.MainActivity { <init>(); }
--keep class com.cbk.ask.ui.SplashActivity { <init>(); }
 -keep class com.cbk.ask.ui.WebViewActivity { <init>(); }
 -keep class com.cbk.ask.ui.LoginActivity { <init>(); }
 -keep class com.cbk.ask.ui.RegisterActivity { <init>(); }

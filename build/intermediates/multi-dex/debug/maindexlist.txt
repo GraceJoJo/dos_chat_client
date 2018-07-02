@@ -52,7 +52,6 @@ com/hyphenate/chat/EMCallManager.class
 android/support/v4/app/FragmentActivity.class
 android/support/multidex/MultiDex.class
 com/huawei/android/pushagent/PushService$a.class
-com/cbk/ask/ui/SplashActivity$1.class
 com/umeng/update/UpdateDialogActivity$2.class
 com/hyphenate/chat/EMConversation.class
 android/support/v4/media/session/MediaSessionCompat$1.class
@@ -79,7 +78,6 @@ com/baidu/mapapi/BMapManager.class
 android/support/v7/app/ActionBar$OnNavigationListener.class
 com/huawei/android/pushagent/b/c/a.class
 org/apache/http/NoHttpResponseException.class
-com/cbk/ask/net/CGNetworkHelper.class
 android/support/v4/view/accessibility/AccessibilityNodeProviderCompat.class
 com/bumptech/glide/load/DecodeFormat.class
 android/support/v7/appcompat/R.class
@@ -140,7 +138,6 @@ android/support/v4/media/MediaMetadataCompat$RatingKey.class
 org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class
 com/cbk/ask/ui/NewGroupActivity$1.class
 android/support/v4/media/session/MediaSessionCompat$MediaSessionImplApi21.class
-com/android/volley/Response$Listener.class
 android/support/v4/app/ActivityCompat$OnRequestPermissionsResultCallback.class
 com/hyphenate/easeui/R$layout.class
 com/bumptech/glide/GlideBuilder.class
@@ -172,7 +169,6 @@ org/apache/http/conn/params/ConnPerRoute.class
 com/cbk/ask/ui/MainActivity$8.class
 org/apache/http/impl/conn/tsccm/PoolEntryRequest.class
 android/support/v4/content/LocalBroadcastManager.class
-com/cbk/ask/domain/BaseResponse.class
 android/support/annotation/AnyRes.class
 com/huawei/android/pushagent/b/f/b.class
 android/support/v4/view/ViewCompat$BaseViewCompatImpl.class
@@ -189,7 +185,6 @@ org/apache/http/cookie/MalformedCookieException.class
 com/baidu/platform/comjni/map/basemap/b.class
 com/huawei/android/pushagent/c/a/f.class
 com/baidu/platform/comapi/map/D.class
-com/cbk/ask/ui/SplashActivity$2.class
 com/parse/ParseInstallation.class
 com/cbk/ask/Constant.class
 org/apache/http/protocol/HTTP.class
@@ -238,7 +233,6 @@ com/cbk/ask/ui/LoginActivity$1.class
 org/apache/http/client/methods/HttpOptions.class
 com/xiaomi/mipush/sdk/MiPushClient.class
 com/hyphenate/chat/EMChatManager.class
-com/cbk/ask/utils/ChoseTipDialog$ChoseTipDialogListener.class
 com/hyphenate/media/EMLocalSurfaceView.class
 com/cbk/ask/ui/ConversationListFragment.class
 com/umeng/update/UpdateConfig.class
@@ -444,7 +438,6 @@ com/baidu/mapapi/map/LogoPosition.class
 org/apache/http/impl/entity/EntityDeserializer.class
 com/hyphenate/chat/EMGroupInfo.class
 com/baidu/platform/comapi/map/MapRenderer$a.class
-com/cbk/ask/domain/Ask/MatchDoctorRespones.class
 org/apache/http/params/HttpProtocolParams.class
 org/apache/http/impl/cookie/RFC2109SpecFactory.class
 org/apache/http/message/BasicHeaderIterator.class
@@ -548,7 +541,6 @@ android/support/v4/app/FragmentManager$OnBackStackChangedListener.class
 org/apache/http/message/BasicLineFormatter.class
 android/support/v7/app/AppCompatDelegate$NightMode.class
 org/apache/http/HttpRequest.class
-com/android/volley/Response$ErrorListener.class
 org/apache/http/impl/client/TunnelRefusedException.class
 android/support/v4/media/VolumeProviderCompat$1.class
 com/parse/ParseClassName.class
@@ -756,7 +748,6 @@ org/apache/http/ReasonPhraseCatalog.class
 android/support/v4/media/VolumeProviderCompat$ControlType.class
 org/apache/http/HeaderElementIterator.class
 com/cbk/ask/ui/OfflinePushNickActivity.class
-com/cbk/ask/net/AppCallback.class
 com/baidu/mapapi/map/k.class
 org/apache/http/impl/DefaultHttpResponseFactory.class
 com/cbk/ask/ui/ChatRoomDetailsActivity$6.class
@@ -789,7 +780,6 @@ com/cbk/ask/ui/VideoCallActivity$1$1.class
 com/bumptech/glide/BitmapRequestBuilder.class
 android/support/v7/graphics/drawable/DrawerArrowDrawable$ArrowDirection.class
 com/squareup/picasso/RequestCreator.class
-com/cbk/ask/ui/SplashActivity.class
 com/parse/ParseSQLiteCursor.class
 org/apache/http/impl/io/ChunkedInputStream.class
 com/alimama/mobile/MMAdView.class
@@ -972,7 +962,6 @@ com/alibaba/fastjson/JSONWriter.class
 org/apache/http/client/params/ClientParamBean.class
 com/hyphenate/easeui/domain/EaseUser.class
 com/parse/ParsePush.class
-com/cbk/ask/domain/User/UserResponse.class
 com/cbk/ask/ui/BlacklistActivity$BlacklistAdapter.class
 org/apache/http/impl/client/RoutedRequest.class
 com/superrtc/util/AppRTCAudioManager.class
@@ -1007,7 +996,6 @@ com/hyphenate/chat/EMMessage$Status.class
 android/support/v4/media/session/PlaybackStateCompat.class
 com/cbk/ask/ui/CallActivity$2$2.class
 com/cbk/ask/ui/UserProfileActivity$3.class
-com/alibaba/fastjson/JSONObject.class
 android/support/v4/widget/DrawerLayout$State.class
 org/apache/http/impl/cookie/RFC2109VersionHandler.class
 com/baidu/mapapi/model/LatLng.class
@@ -1097,7 +1085,6 @@ com/umeng/update/net/DownloadingService$3.class
 android/support/annotation/WorkerThread.class
 com/baidu/mapapi/map/BitmapDescriptor.class
 android/support/multidex/ZipUtil.class
-com/cbk/ask/utils/ChoseTipDialog.class
 org/apache/http/ParseException.class
 android/support/annotation/FractionRes.class
 android/support/v4/app/BackStackRecord$TransitionState.class
@@ -1118,7 +1105,6 @@ android/support/v4/view/ViewCompat$AccessibilityLiveRegion.class
 com/cbk/ask/AskModel.class
 android/support/annotation/UiThread.class
 com/hyphenate/easeui/R$drawable.class
-com/cbk/ask/domain/User/User.class
 org/apache/http/cookie/params/CookieSpecPNames.class
 org/apache/http/protocol/HttpRequestHandlerResolver.class
 org/apache/http/client/params/AllClientPNames.class
